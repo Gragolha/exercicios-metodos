@@ -1,6 +1,6 @@
 package metodosExercicios.interfaces;
 
-public interface OperacoesMatematicas {
+interface OperacoesMatematicas {
 
 	void soma(int numero1, int numero2);
 
